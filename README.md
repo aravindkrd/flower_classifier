@@ -14,7 +14,7 @@ Before running the script, ensure that you have the following dependencies insta
 - tabulate
 - tensorflow_hub
 
-# Alternately, you can set the same environment using Anaconda
+### Alternately, you can set the same environment using Anaconda
 
 ```shell
 conda env create -f environment.yml
