@@ -1,6 +1,7 @@
 # Flower Classifier
 
-This is a Python script that uses a pre-trained TensorFlow model to classify the type of flower in an input image. This is a Python script that uses a pre-trained TensorFlow model to classify the type of flower in an input image.
+This is a Python script that uses a pre-trained TensorFlow model to classify the type of flower in an input image. The model was trained using the Oxford 102 Flower [Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
+This project is part of the Udacity project "Introduction to Machine Learning with TensorFlow." The problem statement and solution structure were provided by Udacity as part of the project requirements.
 
 ## Prerequisites
 
